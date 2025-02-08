@@ -12,5 +12,5 @@
 [Chapter 11. 단위 테스트 안티 패턴](Unit%20Test/chapter-11.md)
 
 ### [도서] 이펙티브 소프트웨어 테스팅
-[Chapter 1. 효율적이고 체계적인 소프트웨어 테스트](effect%20software%20testing/250124.md)
-
+[Chapter 1. 효율적이고 체계적인 소프트웨어 테스트](effect%20software%20testing/250124.md)  
+[Chapter2. 명세 기반 테스트]((effect%20software%20testing/250208.md))
