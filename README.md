@@ -13,4 +13,7 @@
 
 ### [도서] 이펙티브 소프트웨어 테스팅
 [Chapter 1. 효율적이고 체계적인 소프트웨어 테스트](effect%20software%20testing/250124.md)  
-[Chapter2. 명세 기반 테스트]((effect%20software%20testing/250208.md))
+[Chapter 2. 명세 기반 테스트]((effect%20software%20testing/250208.md))
+
+### 자료 구조
+[배열: 자동 리사이징 벡터 구현하기](algorithm/vector.md)
