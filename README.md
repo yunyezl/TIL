@@ -20,6 +20,7 @@
 - [Chapter 3. 구조적 테스트와 테스트 커버리지](effect%20software%20testing/250220.md)  
 - [Chapter 4. 계약 설계](effect%20software%20testing/250227.md)
 - [Chapter 5. 속성 기반 테스트](effect%20software%20testing/250307.md)
+- [Chapter 6. 테스트 더블과 모의 객체](effect%20software%20testing/250319.md)
 
 ## 자료 구조
 
