@@ -38,3 +38,7 @@
 ### AI 활용
 
 - [사내 코드 리뷰 자동화 시스템 구축하기 (w/ ollama) 1편](AI/%5B블로깅%5D%20코드%20리뷰%20시스템%20구축하기/ollama_review_bot_1.md)
+
+### 프로세스 개선
+
+- [마일스톤 관리 자동화: GitLab API를 활용한 개발 프로세스 개선](process%20improvement/250321.md)
